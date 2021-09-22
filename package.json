@@ -4,7 +4,7 @@
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
-             "g": "git add . && git commit -m \"commit\" && git push -u origin main",
+             "g": "git add . && git commit -m \"commit\" && git push -u origin main -f",
     "start": "node index.js",
     "test": "node test.js"
   },
